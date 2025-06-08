@@ -14,7 +14,7 @@
         "default": "basics",
         "options": {
           "basics": "Basics",
-          "starlight": "Docs (Starlight)",
+          "starlight": "Docs Starlight",
           "minimal": "Minimal",
           "blog": "Blog",
           "framework-react": "React",
